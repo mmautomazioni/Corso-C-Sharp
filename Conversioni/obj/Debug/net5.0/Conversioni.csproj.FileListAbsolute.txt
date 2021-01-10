@@ -1,0 +1,16 @@
+C:\Corso C#\Conversioni\bin\Debug\net5.0\Conversioni.exe
+C:\Corso C#\Conversioni\bin\Debug\net5.0\Conversioni.deps.json
+C:\Corso C#\Conversioni\bin\Debug\net5.0\Conversioni.runtimeconfig.json
+C:\Corso C#\Conversioni\bin\Debug\net5.0\Conversioni.runtimeconfig.dev.json
+C:\Corso C#\Conversioni\bin\Debug\net5.0\Conversioni.dll
+C:\Corso C#\Conversioni\bin\Debug\net5.0\ref\Conversioni.dll
+C:\Corso C#\Conversioni\bin\Debug\net5.0\Conversioni.pdb
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.csprojAssemblyReference.cache
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.AssemblyInfoInputs.cache
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.AssemblyInfo.cs
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.csproj.CoreCompileInputs.cache
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.dll
+C:\Corso C#\Conversioni\obj\Debug\net5.0\ref\Conversioni.dll
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.pdb
+C:\Corso C#\Conversioni\obj\Debug\net5.0\Conversioni.genruntimeconfig.cache

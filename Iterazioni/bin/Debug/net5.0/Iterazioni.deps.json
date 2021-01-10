@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Iterazioni/1.0.0": {
+        "runtime": {
+          "Iterazioni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iterazioni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

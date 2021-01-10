@@ -1,0 +1,16 @@
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\Iterazioni.exe
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\Iterazioni.deps.json
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\Iterazioni.runtimeconfig.json
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\Iterazioni.runtimeconfig.dev.json
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\Iterazioni.dll
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\ref\Iterazioni.dll
+C:\Corso C#\Iterazioni\bin\Debug\net5.0\Iterazioni.pdb
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.csprojAssemblyReference.cache
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.AssemblyInfoInputs.cache
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.AssemblyInfo.cs
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.csproj.CoreCompileInputs.cache
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.dll
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\ref\Iterazioni.dll
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.pdb
+C:\Corso C#\Iterazioni\obj\Debug\net5.0\Iterazioni.genruntimeconfig.cache

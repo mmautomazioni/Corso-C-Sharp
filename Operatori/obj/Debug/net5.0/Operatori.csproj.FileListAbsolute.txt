@@ -1,0 +1,16 @@
+C:\Corso C#\Operatori\bin\Debug\net5.0\Operatori.exe
+C:\Corso C#\Operatori\bin\Debug\net5.0\Operatori.deps.json
+C:\Corso C#\Operatori\bin\Debug\net5.0\Operatori.runtimeconfig.json
+C:\Corso C#\Operatori\bin\Debug\net5.0\Operatori.runtimeconfig.dev.json
+C:\Corso C#\Operatori\bin\Debug\net5.0\Operatori.dll
+C:\Corso C#\Operatori\bin\Debug\net5.0\ref\Operatori.dll
+C:\Corso C#\Operatori\bin\Debug\net5.0\Operatori.pdb
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.csprojAssemblyReference.cache
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.AssemblyInfoInputs.cache
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.AssemblyInfo.cs
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.csproj.CoreCompileInputs.cache
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.dll
+C:\Corso C#\Operatori\obj\Debug\net5.0\ref\Operatori.dll
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.pdb
+C:\Corso C#\Operatori\obj\Debug\net5.0\Operatori.genruntimeconfig.cache

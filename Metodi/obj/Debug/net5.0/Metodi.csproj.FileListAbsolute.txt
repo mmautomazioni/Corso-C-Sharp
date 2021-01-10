@@ -1,0 +1,16 @@
+C:\Corso C#\Metodi\bin\Debug\net5.0\Metodi.exe
+C:\Corso C#\Metodi\bin\Debug\net5.0\Metodi.deps.json
+C:\Corso C#\Metodi\bin\Debug\net5.0\Metodi.runtimeconfig.json
+C:\Corso C#\Metodi\bin\Debug\net5.0\Metodi.runtimeconfig.dev.json
+C:\Corso C#\Metodi\bin\Debug\net5.0\Metodi.dll
+C:\Corso C#\Metodi\bin\Debug\net5.0\ref\Metodi.dll
+C:\Corso C#\Metodi\bin\Debug\net5.0\Metodi.pdb
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.csprojAssemblyReference.cache
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.AssemblyInfoInputs.cache
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.AssemblyInfo.cs
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.csproj.CoreCompileInputs.cache
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.dll
+C:\Corso C#\Metodi\obj\Debug\net5.0\ref\Metodi.dll
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.pdb
+C:\Corso C#\Metodi\obj\Debug\net5.0\Metodi.genruntimeconfig.cache

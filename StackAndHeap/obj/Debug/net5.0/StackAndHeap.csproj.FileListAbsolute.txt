@@ -1,0 +1,16 @@
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\StackAndHeap.exe
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\StackAndHeap.deps.json
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\StackAndHeap.runtimeconfig.json
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\StackAndHeap.runtimeconfig.dev.json
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\StackAndHeap.dll
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\ref\StackAndHeap.dll
+C:\Corso C#\StackAndHeap\bin\Debug\net5.0\StackAndHeap.pdb
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.csprojAssemblyReference.cache
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.AssemblyInfoInputs.cache
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.AssemblyInfo.cs
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.csproj.CoreCompileInputs.cache
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.dll
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\ref\StackAndHeap.dll
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.pdb
+C:\Corso C#\StackAndHeap\obj\Debug\net5.0\StackAndHeap.genruntimeconfig.cache

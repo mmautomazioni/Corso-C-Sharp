@@ -1,0 +1,16 @@
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\IntegralTypes.exe
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\IntegralTypes.deps.json
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\IntegralTypes.runtimeconfig.json
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\IntegralTypes.runtimeconfig.dev.json
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\IntegralTypes.dll
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\ref\IntegralTypes.dll
+C:\Corso C#\IntegralTypes\bin\Debug\net5.0\IntegralTypes.pdb
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.csprojAssemblyReference.cache
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.AssemblyInfo.cs
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.dll
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\ref\IntegralTypes.dll
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.pdb
+C:\Corso C#\IntegralTypes\obj\Debug\net5.0\IntegralTypes.genruntimeconfig.cache

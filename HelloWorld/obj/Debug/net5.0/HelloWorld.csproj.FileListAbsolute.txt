@@ -1,0 +1,16 @@
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Corso C#\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Corso C#\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

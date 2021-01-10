@@ -1,0 +1,16 @@
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\FloatingPoint.exe
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\FloatingPoint.deps.json
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\FloatingPoint.runtimeconfig.json
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\FloatingPoint.runtimeconfig.dev.json
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\FloatingPoint.dll
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\ref\FloatingPoint.dll
+C:\Corso C#\FloatingPoint\bin\Debug\net5.0\FloatingPoint.pdb
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.csprojAssemblyReference.cache
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.AssemblyInfo.cs
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.dll
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\ref\FloatingPoint.dll
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.pdb
+C:\Corso C#\FloatingPoint\obj\Debug\net5.0\FloatingPoint.genruntimeconfig.cache

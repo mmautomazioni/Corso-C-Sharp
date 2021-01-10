@@ -1,0 +1,16 @@
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\StruttureCondizionali.exe
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\StruttureCondizionali.deps.json
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\StruttureCondizionali.runtimeconfig.json
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\StruttureCondizionali.runtimeconfig.dev.json
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\StruttureCondizionali.dll
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\ref\StruttureCondizionali.dll
+C:\Corso C#\StruttureCondizionali\bin\Debug\net5.0\StruttureCondizionali.pdb
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.csprojAssemblyReference.cache
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.AssemblyInfoInputs.cache
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.AssemblyInfo.cs
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.csproj.CoreCompileInputs.cache
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.dll
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\ref\StruttureCondizionali.dll
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.pdb
+C:\Corso C#\StruttureCondizionali\obj\Debug\net5.0\StruttureCondizionali.genruntimeconfig.cache

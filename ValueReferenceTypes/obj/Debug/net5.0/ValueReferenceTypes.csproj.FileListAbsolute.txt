@@ -1,0 +1,16 @@
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ValueReferenceTypes.exe
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ValueReferenceTypes.deps.json
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ValueReferenceTypes.runtimeconfig.json
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ValueReferenceTypes.runtimeconfig.dev.json
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ValueReferenceTypes.dll
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ref\ValueReferenceTypes.dll
+C:\Corso C#\ValueReferenceTypes\bin\Debug\net5.0\ValueReferenceTypes.pdb
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.csprojAssemblyReference.cache
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.AssemblyInfoInputs.cache
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.AssemblyInfo.cs
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.dll
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ref\ValueReferenceTypes.dll
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.pdb
+C:\Corso C#\ValueReferenceTypes\obj\Debug\net5.0\ValueReferenceTypes.genruntimeconfig.cache
