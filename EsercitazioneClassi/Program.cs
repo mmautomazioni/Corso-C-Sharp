@@ -47,6 +47,11 @@ namespace EsercitazioneClassi
              }
              internal void SetSaldo(decimal importo)
              {
+                 if(importo<0)
+                 {
+                     Console.WriteLine($"Hai impostato un saldo negativo. Utente:{this.nome + " " + this.cognome}");
+                     return;
+                 }
                  this.saldo=importo;
              }
         }
