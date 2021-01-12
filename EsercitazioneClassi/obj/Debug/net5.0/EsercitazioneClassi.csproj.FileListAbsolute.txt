@@ -1,0 +1,16 @@
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\EsercitazioneClassi.exe
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\EsercitazioneClassi.deps.json
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\EsercitazioneClassi.runtimeconfig.json
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\EsercitazioneClassi.runtimeconfig.dev.json
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\EsercitazioneClassi.dll
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\ref\EsercitazioneClassi.dll
+C:\Corso C#\EsercitazioneClassi\bin\Debug\net5.0\EsercitazioneClassi.pdb
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.csprojAssemblyReference.cache
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.AssemblyInfoInputs.cache
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.AssemblyInfo.cs
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.csproj.CoreCompileInputs.cache
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.dll
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\ref\EsercitazioneClassi.dll
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.pdb
+C:\Corso C#\EsercitazioneClassi\obj\Debug\net5.0\EsercitazioneClassi.genruntimeconfig.cache
