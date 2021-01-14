@@ -1,0 +1,16 @@
+C:\Corso C#\Property\bin\Debug\net5.0\Property.exe
+C:\Corso C#\Property\bin\Debug\net5.0\Property.deps.json
+C:\Corso C#\Property\bin\Debug\net5.0\Property.runtimeconfig.json
+C:\Corso C#\Property\bin\Debug\net5.0\Property.runtimeconfig.dev.json
+C:\Corso C#\Property\bin\Debug\net5.0\Property.dll
+C:\Corso C#\Property\bin\Debug\net5.0\ref\Property.dll
+C:\Corso C#\Property\bin\Debug\net5.0\Property.pdb
+C:\Corso C#\Property\obj\Debug\net5.0\Property.csprojAssemblyReference.cache
+C:\Corso C#\Property\obj\Debug\net5.0\Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Property\obj\Debug\net5.0\Property.AssemblyInfoInputs.cache
+C:\Corso C#\Property\obj\Debug\net5.0\Property.AssemblyInfo.cs
+C:\Corso C#\Property\obj\Debug\net5.0\Property.csproj.CoreCompileInputs.cache
+C:\Corso C#\Property\obj\Debug\net5.0\Property.dll
+C:\Corso C#\Property\obj\Debug\net5.0\ref\Property.dll
+C:\Corso C#\Property\obj\Debug\net5.0\Property.pdb
+C:\Corso C#\Property\obj\Debug\net5.0\Property.genruntimeconfig.cache
