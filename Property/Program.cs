@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EsercitazioneClassi
+namespace EsercitazioneProperty
 {
     class Program
     {
