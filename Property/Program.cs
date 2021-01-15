@@ -31,9 +31,7 @@ namespace EsercitazioneProperty
                  }
                  set{
                      if(value<0)
-                     {
                         Console.WriteLine($"Saldo negativo. Impossibile impostare il saldo. Valore passato: {value}");
-                     }
                      else
                         this.saldo=value;
                  }
