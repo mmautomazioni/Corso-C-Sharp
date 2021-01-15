@@ -1,0 +1,16 @@
+C:\Corso C#\Struct\bin\Debug\net5.0\Struct.exe
+C:\Corso C#\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Corso C#\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Corso C#\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Corso C#\Struct\bin\Debug\net5.0\Struct.dll
+C:\Corso C#\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Corso C#\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.csprojAssemblyReference.cache
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.dll
+C:\Corso C#\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Corso C#\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache
