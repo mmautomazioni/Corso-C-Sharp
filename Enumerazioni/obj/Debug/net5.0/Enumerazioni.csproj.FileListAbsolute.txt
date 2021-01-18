@@ -1,0 +1,16 @@
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\Enumerazioni.exe
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\Enumerazioni.deps.json
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\Enumerazioni.runtimeconfig.json
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\Enumerazioni.runtimeconfig.dev.json
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\Enumerazioni.dll
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\ref\Enumerazioni.dll
+C:\Corso C#\Enumerazioni\bin\Debug\net5.0\Enumerazioni.pdb
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.csprojAssemblyReference.cache
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.AssemblyInfoInputs.cache
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.AssemblyInfo.cs
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.csproj.CoreCompileInputs.cache
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.dll
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\ref\Enumerazioni.dll
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.pdb
+C:\Corso C#\Enumerazioni\obj\Debug\net5.0\Enumerazioni.genruntimeconfig.cache
