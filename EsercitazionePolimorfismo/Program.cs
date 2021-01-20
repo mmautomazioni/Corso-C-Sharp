@@ -19,6 +19,7 @@ namespace EsercitazionePolimorfismo
             utente2.SaldoCorrente();
             string s = utente2.Denominazione;
             Console.WriteLine(s);
+            Console.WriteLine(utente2.ToString());//VIENE RICHIAMATO IL METODO RIDEFINITO NELLA CLASSE UTENTE
         }
         internal class Persona
         {
@@ -73,6 +74,13 @@ namespace EsercitazionePolimorfismo
                  }
                 
              }
+             //ToString() è un metodo predefinito nella classe object. Tutti i tipi in C Sharp
+             //Ereditano da questa classe che è la capostitipe di tutta la gerarchia di ereditarietà
+             //degli oggetti C#
+            public override string ToString()
+            {
+                return "Utente: "+ this.Nome + " " + this.Cognome + " " + this.NumeroConto; 
+            }
         }
         internal class Banca
         {
