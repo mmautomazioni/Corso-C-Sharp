@@ -1,0 +1,16 @@
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\EsercitazionePolimorfismo.exe
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\EsercitazionePolimorfismo.deps.json
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\EsercitazionePolimorfismo.runtimeconfig.json
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\EsercitazionePolimorfismo.runtimeconfig.dev.json
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\EsercitazionePolimorfismo.dll
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\ref\EsercitazionePolimorfismo.dll
+C:\Corso C#\EsercitazionePolimorfismo\bin\Debug\net5.0\EsercitazionePolimorfismo.pdb
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.csprojAssemblyReference.cache
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.AssemblyInfoInputs.cache
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.AssemblyInfo.cs
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.dll
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\ref\EsercitazionePolimorfismo.dll
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.pdb
+C:\Corso C#\EsercitazionePolimorfismo\obj\Debug\net5.0\EsercitazionePolimorfismo.genruntimeconfig.cache
