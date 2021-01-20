@@ -23,7 +23,10 @@ namespace Polimorfismo
         {
             public override void MyMethod()
             {
-                 Console.WriteLine("Sto eseguendo MyMethod() della Sottoclasse Insetto.");
+                /*--SE VOGLIAMO CHIAMARE PRIMA IL CODICE DELLA SUPERCLASSE LO SI
+                FA USANDO LA PAROLA CHIAVE BASE SEGUITA DAL NOME DEL METODO*/
+                base.MyMethod();
+                Console.WriteLine("Sto eseguendo MyMethod() della Sottoclasse Insetto.");
             }
         }
         public class Mammifero:Animale
