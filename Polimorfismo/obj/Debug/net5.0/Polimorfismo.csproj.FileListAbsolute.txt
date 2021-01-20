@@ -1,0 +1,16 @@
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.exe
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.deps.json
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.json
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.dev.json
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.dll
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\ref\Polimorfismo.dll
+C:\Corso C#\Polimorfismo\bin\Debug\net5.0\Polimorfismo.pdb
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csprojAssemblyReference.cache
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.AssemblyInfo.cs
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.dll
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\ref\Polimorfismo.dll
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.pdb
+C:\Corso C#\Polimorfismo\obj\Debug\net5.0\Polimorfismo.genruntimeconfig.cache
