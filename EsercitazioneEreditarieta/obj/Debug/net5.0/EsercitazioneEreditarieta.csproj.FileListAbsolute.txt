@@ -1,0 +1,16 @@
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\EsercitazioneEreditarieta.exe
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\EsercitazioneEreditarieta.deps.json
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\EsercitazioneEreditarieta.runtimeconfig.json
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\EsercitazioneEreditarieta.runtimeconfig.dev.json
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\EsercitazioneEreditarieta.dll
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\ref\EsercitazioneEreditarieta.dll
+C:\Corso C#\EsercitazioneEreditarieta\bin\Debug\net5.0\EsercitazioneEreditarieta.pdb
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.csprojAssemblyReference.cache
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.AssemblyInfoInputs.cache
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.AssemblyInfo.cs
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.csproj.CoreCompileInputs.cache
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.dll
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\ref\EsercitazioneEreditarieta.dll
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.pdb
+C:\Corso C#\EsercitazioneEreditarieta\obj\Debug\net5.0\EsercitazioneEreditarieta.genruntimeconfig.cache
