@@ -17,8 +17,7 @@ namespace EsercitazionePolimorfismo
             b1.Preleva(14000m);
             b2.Preleva(10000m);
             utente2.SaldoCorrente();
-            string s = utente2.Denominazione;
-            Console.WriteLine(s);
+            Console.WriteLine(utente2.Denominazione);
             Console.WriteLine(utente2.ToString());//VIENE RICHIAMATO IL METODO RIDEFINITO NELLA CLASSE UTENTE
         }
         internal class Persona
