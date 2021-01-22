@@ -6,25 +6,29 @@ namespace Polimorfismo
     {
         static void Main(string[] args)
         {
-            Insetto i = new Insetto();
+            Animale i = new Insetto();
             i.MyMethod();
+            Animale.MyMethod2();
+            
         }
-        public class Animale
+        public abstract class Animale
         {
-            public virtual void MyMethod()
+            public abstract void MyMethod();
+
+            public static void MyMethod2()
             {
-                Console.WriteLine("Sto eseguendo MyMethod() della Superclasse.");
+                Console.WriteLine("Sto eseguendo il metodo statico MyMethod2() della Superclasse.");
             }
+
+            
         }
         public class Insetto:Animale
         {
             public override void MyMethod()
             {
-                 base.MyMethod();
                  Console.WriteLine("Sto eseguendo MyMethod() della Sottoclasse.");
             }
         }
 
     }
 }
-
