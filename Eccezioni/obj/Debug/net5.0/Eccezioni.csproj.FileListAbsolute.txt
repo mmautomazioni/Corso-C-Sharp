@@ -1,0 +1,16 @@
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\Eccezioni.exe
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\Eccezioni.deps.json
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\Eccezioni.runtimeconfig.json
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\Eccezioni.runtimeconfig.dev.json
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\Eccezioni.dll
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\ref\Eccezioni.dll
+C:\Corso C#\Eccezioni\bin\Debug\net5.0\Eccezioni.pdb
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.csprojAssemblyReference.cache
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.AssemblyInfoInputs.cache
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.AssemblyInfo.cs
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.csproj.CoreCompileInputs.cache
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.dll
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\ref\Eccezioni.dll
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.pdb
+C:\Corso C#\Eccezioni\obj\Debug\net5.0\Eccezioni.genruntimeconfig.cache
