@@ -43,7 +43,10 @@ namespace Eccezioni
             }
             catch(Exception ex)
             {
-                throw new DivideByZeroException("Divisione per zero",ex);
+                if(b==0)
+                    throw new DivideByZeroException("Divisione per zero.",ex);
+                else
+                    throw new Exception("Si è verificata un'eccezione generica.",ex);   
             }
             
         }
