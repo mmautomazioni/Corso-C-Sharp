@@ -1,0 +1,16 @@
+C:\Corso C#\Generics\bin\Debug\net5.0\Generics.exe
+C:\Corso C#\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Corso C#\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Corso C#\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Corso C#\Generics\bin\Debug\net5.0\Generics.dll
+C:\Corso C#\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Corso C#\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.dll
+C:\Corso C#\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Corso C#\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
