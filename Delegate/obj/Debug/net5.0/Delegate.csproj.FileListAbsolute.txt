@@ -1,0 +1,16 @@
+C:\Corso C#\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Corso C#\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Corso C#\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Corso C#\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Corso C#\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Corso C#\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Corso C#\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.csprojAssemblyReference.cache
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Corso C#\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Corso C#\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
