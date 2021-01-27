@@ -128,11 +128,11 @@ namespace Generics
         }
 
     }
-    public interface Iinterface<T> where T:struct
+    public interface IInterface<T> where T:struct
     {
         void Print(T arg1, T arg2);
     }
-    public class MyClass<T>:Iinterface<T> where T:struct
+    public class MyClass<T>:IInterface<T> where T:struct
     {
         public void Print(T arg1, T arg2)
         {
