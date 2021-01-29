@@ -18,8 +18,9 @@ namespace EsercitazioneClassi
             b2.Preleva(10000m);
             utente2.SaldoCorrente();
         }
-        internal class Utente
-        {
+    }
+    internal class Utente
+    {
              private string id;
              private string nome;
              private string cognome;
@@ -54,9 +55,9 @@ namespace EsercitazioneClassi
                  }
                  this.saldo=importo;
              }
-        }
-        internal class Banca
-        {
+    }
+    internal class Banca
+    {
             private string id;
             private string denominazione;
             private string abi;
@@ -106,6 +107,5 @@ namespace EsercitazioneClassi
                 return;
             }
             
-        }
     }
 }
