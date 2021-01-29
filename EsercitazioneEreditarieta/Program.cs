@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Interface
+namespace EsercitazioneEreditarieta
 {
     class Program
     {
