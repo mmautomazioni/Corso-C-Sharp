@@ -18,8 +18,10 @@ namespace EsercitazioneProperty
             b2.Preleva(10000m);
             utente2.SaldoCorrente();
         }
-        internal class Utente
-        {
+        
+    }
+    internal class Utente
+    {
              private decimal saldo;
              public string Id {get;set;}
              public string Nome {get;set;}
@@ -58,9 +60,9 @@ namespace EsercitazioneProperty
              {
                  Console.WriteLine($"Utente {this.Nome + " " +this.Cognome} saldo corrente: {this.Saldo}");
              }
-        }
-        internal class Banca
-        {
+    }
+    internal class Banca
+    {
             public string Id {get;set;}
             public string Denominazione {get;set;}
             public string Abi {get;set;}
@@ -105,7 +107,6 @@ namespace EsercitazioneProperty
                 return;
             }
             
-        }
     }
 }
 
