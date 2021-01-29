@@ -20,8 +20,8 @@ namespace EsercitazionePolimorfismo
             Console.WriteLine(utente2.Denominazione);
             Console.WriteLine(utente2.ToString());//VIENE RICHIAMATO IL METODO RIDEFINITO NELLA CLASSE UTENTE
         }
-        internal class Persona
-        {
+    internal class Persona
+    {
              public string Nome {get;set;}
              public string Cognome {get;set;}
 
@@ -33,9 +33,9 @@ namespace EsercitazionePolimorfismo
                  }
                 
              }
-        }
-        internal class Utente : Persona
-        {
+    }
+    internal class Utente : Persona
+    {
              private decimal saldo;
              public string Id {get;set;}
             
@@ -80,9 +80,9 @@ namespace EsercitazionePolimorfismo
             {
                 return "Utente: "+ this.Nome + " " + this.Cognome + " " + this.NumeroConto; 
             }
-        }
-        internal class Banca
-        {
+    }
+    internal class Banca
+    {
             public string Id {get;set;}
             public string Denominazione {get;set;}
             public string Abi {get;set;}
@@ -127,8 +127,8 @@ namespace EsercitazionePolimorfismo
                 return;
             }
             
-        }
     }
+  }
 }
 
 
