@@ -57,6 +57,7 @@ namespace Generics
                 Console.WriteLine(ex.Message);
             }
         }
+    }
     public class Stampante
     {
         public T Stampa<T>(T a,T b)  
@@ -148,9 +149,7 @@ namespace Generics
             return item.ToString();
         }
     }
-
   }
-}
     
 
 
