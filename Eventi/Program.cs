@@ -29,7 +29,7 @@ namespace Eventi
              public void OnNewSaldo(decimal saldo)
              {
                  if(NewSaldo!=null) //SE NON CI SONO ASCOLTATORI REGISTRATI NewSaldo VALE NULL.
-                     NewSaldo(saldo);//EMETTO L'EVENTO A TUTTI I SOTTOSCRITTORI CON IL MULTICAST DEL DELEGATE.
+                     NewSaldo(saldo);//EMETTO L'EVENTO A TUTTI I SOTTOSCRITTORI.
              }
              private decimal saldo;
              public string Id {get;set;}
