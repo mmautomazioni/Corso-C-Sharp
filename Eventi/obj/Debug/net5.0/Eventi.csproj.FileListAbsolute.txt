@@ -1,0 +1,16 @@
+C:\Corso C#\Eventi\bin\Debug\net5.0\Eventi.exe
+C:\Corso C#\Eventi\bin\Debug\net5.0\Eventi.deps.json
+C:\Corso C#\Eventi\bin\Debug\net5.0\Eventi.runtimeconfig.json
+C:\Corso C#\Eventi\bin\Debug\net5.0\Eventi.runtimeconfig.dev.json
+C:\Corso C#\Eventi\bin\Debug\net5.0\Eventi.dll
+C:\Corso C#\Eventi\bin\Debug\net5.0\ref\Eventi.dll
+C:\Corso C#\Eventi\bin\Debug\net5.0\Eventi.pdb
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.csprojAssemblyReference.cache
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.AssemblyInfoInputs.cache
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.AssemblyInfo.cs
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.csproj.CoreCompileInputs.cache
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.dll
+C:\Corso C#\Eventi\obj\Debug\net5.0\ref\Eventi.dll
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.pdb
+C:\Corso C#\Eventi\obj\Debug\net5.0\Eventi.genruntimeconfig.cache
