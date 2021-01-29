@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EsercitazioneProperty
+namespace EsercitazioneEreditarieta
 {
     class Program
     {
@@ -18,8 +18,9 @@ namespace EsercitazioneProperty
             b2.Preleva(10000m);
             utente2.SaldoCorrente();
         }
-        internal class Persona
-        {
+    }
+    internal class Persona
+    {
              public string Nome {get;set;}
              public string Cognome {get;set;}
 
@@ -31,9 +32,9 @@ namespace EsercitazioneProperty
                  }
                 
              }
-        }
-        internal class Utente : Persona
-        {
+    }
+    internal class Utente : Persona
+    {
              private decimal saldo;
              public string Id {get;set;}
             
@@ -48,7 +49,7 @@ namespace EsercitazioneProperty
                      else
                         this.saldo=value;
                  }
-             }   
+            }   
 
              public string NumeroConto {get;set;}
 
@@ -63,9 +64,9 @@ namespace EsercitazioneProperty
              {
                  Console.WriteLine($"Utente {this.Nome + " " +this.Cognome} saldo corrente: {this.Saldo}");
              }
-        }
-        internal class Banca
-        {
+    }
+    internal class Banca
+    {
             public string Id {get;set;}
             public string Denominazione {get;set;}
             public string Abi {get;set;}
@@ -110,7 +111,6 @@ namespace EsercitazioneProperty
                 return;
             }
             
-        }
     }
 }
 
