@@ -12,13 +12,14 @@ namespace Interface
                                     //A MyClassA OCCORRE FARE IL CASTING.
           MyClassB.MyMethod(i);
         }
-        public interface IMyInterface
-        {
+    }
+    public interface IMyInterface
+    {
             void MyMethod();
-        }
+    }
         
-        public class MyClassA : IMyInterface
-        {
+    public class MyClassA : IMyInterface
+    {
             public void MyMethod()
             {
                 Console.WriteLine("MyMethod() di MyClassA");
@@ -27,15 +28,14 @@ namespace Interface
             {
                 Console.WriteLine("MyMethod2() di MyClassA");
             }
-        }
-        public class MyClassB
-        {
+    }
+    public class MyClassB
+    {
             public static void MyMethod(IMyInterface myInterface)
             {
                 myInterface.MyMethod();
             }
-        }
-       
     }
+       
 }
 
