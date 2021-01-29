@@ -9,15 +9,16 @@ namespace Eventi
         static void Main(string[] args)
         {
             utente = new Utente("1234560","Mario","Rossi","4356789");
-            utente.NewSaldo += Program.SaldoHandler;
+            Program p = new Program();
+            utente.NewSaldo += p.SaldoHandler;//SOTTOSCRIZIONE EVENTO
             utente.Saldo = 13000m;
             utente.SaldoCorrente();
             banca = new Banca("1234567890","UBI Banca",utente);
             banca.Preleva(8000m);
         }
-        /*--SOTTOSCRIZIONE DELL'EVENTO NewSaldo. IL METODO DEVE AVERE UNA SIGNATURE
+        /*--GESTIONE DELL'EVENTO NewSaldo. IL METODO DEVE AVERE UNA SIGNATURE
         COMPATIBILE CON IL DELEGATE ACTION DEFINITO NELLA CLASSE UTENTE.*/
-        public static void SaldoHandler(decimal saldo)
+        public void SaldoHandler(decimal saldo)
         {
            Console.WriteLine($"Il saldo dell'utente {utente.Denominazione} è cambiato. Nuovo valore: {utente.Saldo}");       
         }
