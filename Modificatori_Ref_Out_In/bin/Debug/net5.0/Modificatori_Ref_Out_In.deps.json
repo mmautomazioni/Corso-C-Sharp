@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Modificatori_Ref_Out_In/1.0.0": {
+        "runtime": {
+          "Modificatori_Ref_Out_In.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modificatori_Ref_Out_In/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

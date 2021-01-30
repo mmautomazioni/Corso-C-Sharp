@@ -1,0 +1,16 @@
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\Modificatori_Ref_Out_In.exe
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\Modificatori_Ref_Out_In.deps.json
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\Modificatori_Ref_Out_In.runtimeconfig.json
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\Modificatori_Ref_Out_In.runtimeconfig.dev.json
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\Modificatori_Ref_Out_In.dll
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\ref\Modificatori_Ref_Out_In.dll
+C:\Corso C#\Modificatori_Ref_Out_In\bin\Debug\net5.0\Modificatori_Ref_Out_In.pdb
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.csprojAssemblyReference.cache
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.AssemblyInfoInputs.cache
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.AssemblyInfo.cs
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.csproj.CoreCompileInputs.cache
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.dll
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\ref\Modificatori_Ref_Out_In.dll
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.pdb
+C:\Corso C#\Modificatori_Ref_Out_In\obj\Debug\net5.0\Modificatori_Ref_Out_In.genruntimeconfig.cache
