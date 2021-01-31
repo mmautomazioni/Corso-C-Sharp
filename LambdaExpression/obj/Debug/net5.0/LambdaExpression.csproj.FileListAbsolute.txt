@@ -1,0 +1,16 @@
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\LambdaExpression.exe
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\LambdaExpression.deps.json
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.json
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.dev.json
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\LambdaExpression.dll
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\ref\LambdaExpression.dll
+C:\Corso C#\LambdaExpression\bin\Debug\net5.0\LambdaExpression.pdb
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csprojAssemblyReference.cache
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfo.cs
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.dll
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\ref\LambdaExpression.dll
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.pdb
+C:\Corso C#\LambdaExpression\obj\Debug\net5.0\LambdaExpression.genruntimeconfig.cache
