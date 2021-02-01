@@ -1,0 +1,16 @@
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\DefaultInterface.exe
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\DefaultInterface.deps.json
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\DefaultInterface.runtimeconfig.json
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\DefaultInterface.runtimeconfig.dev.json
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\DefaultInterface.dll
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\ref\DefaultInterface.dll
+C:\Corso C#\DefaultInterface\bin\Debug\net5.0\DefaultInterface.pdb
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.csprojAssemblyReference.cache
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.AssemblyInfoInputs.cache
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.AssemblyInfo.cs
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.csproj.CoreCompileInputs.cache
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.dll
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\ref\DefaultInterface.dll
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.pdb
+C:\Corso C#\DefaultInterface\obj\Debug\net5.0\DefaultInterface.genruntimeconfig.cache
