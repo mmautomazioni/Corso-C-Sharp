@@ -29,15 +29,15 @@ namespace DefaultInterface
         supponiamo che il programmatore che gestisce la classe
         cha la implementa voglia dare una sua implementazione.
         Se creiamo una istanza di MyClass e invochiamo Method2
-        il codice eseguito sarà quello ridefinito in MyClass,
+        il codice eseguito sarà quello ridefinito in MyClass
         in una sorta di override. Se rimuoviamo la definizione
         di MyMethod2 dalla classe magari perchè vogliamo
         che venga eseguita l'implementazione di default
         nella interface otteniamo un errore. Il compilatore
         vuole che indichiamo esplicitamente su quale interface
         intendiamo richiamare MyMethod2 perchè potrebbero
-        essere più interface che dichiarano un metodo
-        con la stesso nome e signature.*/
+        esserci più interface che dichiarano un metodo
+        con la stessa signature.*/
     }
     public class MyClass:IInterface
     {
