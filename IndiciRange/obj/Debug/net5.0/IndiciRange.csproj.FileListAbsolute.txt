@@ -1,0 +1,16 @@
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\IndiciRange.exe
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\IndiciRange.deps.json
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\IndiciRange.runtimeconfig.json
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\IndiciRange.runtimeconfig.dev.json
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\IndiciRange.dll
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\ref\IndiciRange.dll
+C:\Corso C#\IndiciRange\bin\Debug\net5.0\IndiciRange.pdb
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.csprojAssemblyReference.cache
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.AssemblyInfoInputs.cache
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.AssemblyInfo.cs
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.csproj.CoreCompileInputs.cache
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.dll
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\ref\IndiciRange.dll
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.pdb
+C:\Corso C#\IndiciRange\obj\Debug\net5.0\IndiciRange.genruntimeconfig.cache
