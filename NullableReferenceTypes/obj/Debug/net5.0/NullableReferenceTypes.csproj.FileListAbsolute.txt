@@ -1,0 +1,16 @@
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\NullableReferenceTypes.exe
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\NullableReferenceTypes.deps.json
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\NullableReferenceTypes.runtimeconfig.json
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\NullableReferenceTypes.runtimeconfig.dev.json
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\NullableReferenceTypes.dll
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\ref\NullableReferenceTypes.dll
+C:\Corso C#\NullableReferenceTypes\bin\Debug\net5.0\NullableReferenceTypes.pdb
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.csprojAssemblyReference.cache
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.dll
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\ref\NullableReferenceTypes.dll
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.pdb
+C:\Corso C#\NullableReferenceTypes\obj\Debug\net5.0\NullableReferenceTypes.genruntimeconfig.cache
