@@ -20,7 +20,7 @@ namespace Eventi
         COMPATIBILE CON IL DELEGATE ACTION DEFINITO NELLA CLASSE UTENTE.*/
         public void SaldoHandler(decimal saldo)
         {
-           Console.WriteLine($"Il saldo dell'utente {utente.Denominazione} è cambiato. Nuovo valore: {utente.Saldo}");       
+           Console.WriteLine($"Saldo utente {utente.Denominazione} è cambiato. Nuovo valore: {utente.Saldo}");       
         }
     }
     internal class Utente
@@ -42,7 +42,7 @@ namespace Eventi
                 }
             set{
                 if(value<0)
-                    Console.WriteLine($"Saldo negativo. Impossibile impostare il saldo. Valore passato: {value}");
+                    Console.WriteLine($"Impossibile impostare il saldo. Valore passato: {value}");
                 else
                 {
                     this.saldo=value;
@@ -65,13 +65,13 @@ namespace Eventi
         {
                  
             get{
-                return "Utente " + this.Nome + " " + this.Cognome + " numero di conto: "+this.NumeroConto;
+                return "Utente " + this.Nome + " " + this.Cognome;
             }
                 
         }
         internal void SaldoCorrente()
         {
-            Console.WriteLine($"Utente {this.Nome + " " +this.Cognome} saldo corrente: {this.Saldo}");
+            Console.WriteLine($"Utente {this.Nome + " " +this.Cognome} saldo: {this.Saldo}");
         }
     }
     internal class Banca
@@ -89,14 +89,15 @@ namespace Eventi
             this.Abi=abi;
             this.Cab=cab;
         }
-        public Banca(string id,string denominazione,Utente utente):this(id,denominazione,utente,"06098","14400"){}
+        public Banca(string id,string denominazione,Utente utente):
+        this(id,denominazione,utente,"06098","14400"){}
 
         internal void Preleva(decimal importo)
         {
             decimal saldo = Utente.Saldo;
             if(importo>saldo)
             {
-                Console.WriteLine($"Scoperto: Operazione di prelievo non ammessa, importo richiesto {importo}");
+                Console.WriteLine($"Operazione di prelievo non ammessa, importo richiesto {importo}");
                 return;
                     
             }
