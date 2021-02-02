@@ -36,11 +36,11 @@ namespace EsercitazioneClassi
              }
              internal void Denominazione()
              {
-                 Console.WriteLine($"Utente {this.nome + " " +this.cognome} numero di conto: {this.numeroConto}");
+                 Console.WriteLine($"Utente {this.nome + " " +this.cognome}");
              }
              internal void SaldoCorrente()
              {
-                 Console.WriteLine($"Utente {this.nome + " " +this.cognome} saldo corrente: {this.GetSaldo()}");
+                 Console.WriteLine($"Utente {this.nome + " " +this.cognome} saldo: {this.GetSaldo()}");
              }
              internal decimal GetSaldo()
              {
@@ -50,7 +50,7 @@ namespace EsercitazioneClassi
              {
                  if(importo<0)
                  {
-                     Console.WriteLine($"Hai impostato un saldo negativo. Utente:{this.nome + " " + this.cognome}");
+                     Console.WriteLine($"Saldo negativo. Utente:{this.nome + " " + this.cognome}");
                      return;
                  }
                  this.saldo=importo;
@@ -71,7 +71,8 @@ namespace EsercitazioneClassi
                 this.abi=abi;
                 this.cab=cab;
             }
-            public Banca(string id,string denominazione,Utente utente):this(id,denominazione,utente,"06098","14400"){}
+            public Banca(string id,string denominazione,Utente utente):
+            this(id,denominazione,utente,"06098","14400"){}
 
             internal void Denominazione()
             {
@@ -82,7 +83,7 @@ namespace EsercitazioneClassi
                 decimal saldo = utente.GetSaldo();
                 if(importo>saldo)
                 {
-                    Console.WriteLine($"Scoperto: Operazione di prelievo non ammessa, importo richiesto {importo}");
+                    Console.WriteLine($"Operazione di prelievo non ammessa, importo richiesto {importo}");
                     utente.Denominazione();
                     return;
                 }
