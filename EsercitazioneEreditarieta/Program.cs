@@ -45,7 +45,7 @@ namespace EsercitazioneEreditarieta
                  }
                  set{
                      if(value<0)
-                        Console.WriteLine($"Saldo negativo. Impossibile impostare il saldo. Valore passato: {value}");
+                        Console.WriteLine($"Impossibile impostare il saldo. Valore passato: {value}");
                      else
                         this.saldo=value;
                  }
@@ -80,14 +80,15 @@ namespace EsercitazioneEreditarieta
                 this.Abi=abi;
                 this.Cab=cab;
             }
-            public Banca(string id,string denominazione,Utente utente):this(id,denominazione,utente,"06098","14400"){}
+            public Banca(string id,string denominazione,Utente utente):
+            this(id,denominazione,utente,"06098","14400"){}
  
             internal void Preleva(decimal importo)
             {
                 decimal saldo = Utente.Saldo;
                 if(importo>saldo)
                 {
-                    Console.WriteLine($"Scoperto: Operazione di prelievo non ammessa, importo richiesto {importo}");
+                    Console.WriteLine($"Operazione di prelievo non ammessa, importo richiesto {importo}");
                     return;
                      
                 }
