@@ -1,0 +1,16 @@
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\CollectionGeneriche.exe
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\CollectionGeneriche.deps.json
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\CollectionGeneriche.runtimeconfig.json
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\CollectionGeneriche.runtimeconfig.dev.json
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\CollectionGeneriche.dll
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\ref\CollectionGeneriche.dll
+C:\Corso C#\CollectionGeneriche\bin\Debug\net5.0\CollectionGeneriche.pdb
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.csprojAssemblyReference.cache
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.AssemblyInfoInputs.cache
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.AssemblyInfo.cs
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.csproj.CoreCompileInputs.cache
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.dll
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\ref\CollectionGeneriche.dll
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.pdb
+C:\Corso C#\CollectionGeneriche\obj\Debug\net5.0\CollectionGeneriche.genruntimeconfig.cache
