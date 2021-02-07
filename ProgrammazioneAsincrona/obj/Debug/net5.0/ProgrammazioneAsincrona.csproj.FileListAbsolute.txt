@@ -1,0 +1,16 @@
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.csprojAssemblyReference.cache
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.AssemblyInfoInputs.cache
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.AssemblyInfo.cs
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.csproj.CoreCompileInputs.cache
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ProgrammazioneAsincrona.exe
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ProgrammazioneAsincrona.deps.json
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ProgrammazioneAsincrona.runtimeconfig.json
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ProgrammazioneAsincrona.runtimeconfig.dev.json
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ProgrammazioneAsincrona.dll
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ref\ProgrammazioneAsincrona.dll
+C:\Corso C#\ProgrammazioneAsincrona\bin\Debug\net5.0\ProgrammazioneAsincrona.pdb
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.dll
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ref\ProgrammazioneAsincrona.dll
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.pdb
+C:\Corso C#\ProgrammazioneAsincrona\obj\Debug\net5.0\ProgrammazioneAsincrona.genruntimeconfig.cache
