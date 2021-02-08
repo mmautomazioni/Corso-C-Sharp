@@ -90,7 +90,7 @@ namespace FileDirectory
                 foreach (DirectoryInfo dir in dirs)
                 {
                     // Directory di destinazione 
-                    //Path.Combine combina due stringhe in un unico pah.
+                    //Path.Combine combina due stringhe in un unico path.
                     string destinationDir = Path.Combine(destination.FullName, dir.Name);
                     // Richiama la funzione stessa ricorsivamente
                     CopyDirectory(dir, new DirectoryInfo(destinationDir));
