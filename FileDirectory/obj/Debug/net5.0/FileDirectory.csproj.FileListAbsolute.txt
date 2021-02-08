@@ -1,0 +1,16 @@
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\FileDirectory.exe
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\FileDirectory.deps.json
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\FileDirectory.runtimeconfig.json
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\FileDirectory.runtimeconfig.dev.json
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\FileDirectory.dll
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\ref\FileDirectory.dll
+C:\Corso C#\FileDirectory\bin\Debug\net5.0\FileDirectory.pdb
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.csprojAssemblyReference.cache
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.AssemblyInfoInputs.cache
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.AssemblyInfo.cs
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.dll
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\ref\FileDirectory.dll
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.pdb
+C:\Corso C#\FileDirectory\obj\Debug\net5.0\FileDirectory.genruntimeconfig.cache
