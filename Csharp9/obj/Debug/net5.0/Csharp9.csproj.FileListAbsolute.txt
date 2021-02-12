@@ -1,0 +1,16 @@
+C:\Corso C#\Csharp9\bin\Debug\net5.0\Csharp9.exe
+C:\Corso C#\Csharp9\bin\Debug\net5.0\Csharp9.deps.json
+C:\Corso C#\Csharp9\bin\Debug\net5.0\Csharp9.runtimeconfig.json
+C:\Corso C#\Csharp9\bin\Debug\net5.0\Csharp9.runtimeconfig.dev.json
+C:\Corso C#\Csharp9\bin\Debug\net5.0\Csharp9.dll
+C:\Corso C#\Csharp9\bin\Debug\net5.0\ref\Csharp9.dll
+C:\Corso C#\Csharp9\bin\Debug\net5.0\Csharp9.pdb
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.csprojAssemblyReference.cache
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.AssemblyInfoInputs.cache
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.AssemblyInfo.cs
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.csproj.CoreCompileInputs.cache
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.dll
+C:\Corso C#\Csharp9\obj\Debug\net5.0\ref\Csharp9.dll
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.pdb
+C:\Corso C#\Csharp9\obj\Debug\net5.0\Csharp9.genruntimeconfig.cache
