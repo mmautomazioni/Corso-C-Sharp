@@ -1,0 +1,6 @@
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.GlobalUsings.g.cs
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.csproj.AssemblyReference.cache
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.AssemblyInfoInputs.cache
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.AssemblyInfo.cs
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.csproj.CoreCompileInputs.cache

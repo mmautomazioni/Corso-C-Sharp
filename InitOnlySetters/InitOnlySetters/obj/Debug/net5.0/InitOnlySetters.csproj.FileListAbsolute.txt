@@ -1,0 +1,16 @@
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\InitOnlySetters.exe
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\InitOnlySetters.deps.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\InitOnlySetters.runtimeconfig.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\InitOnlySetters.runtimeconfig.dev.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\InitOnlySetters.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\ref\InitOnlySetters.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\bin\Debug\net5.0\InitOnlySetters.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.csprojAssemblyReference.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.AssemblyInfoInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.AssemblyInfo.cs
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.csproj.CoreCompileInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\ref\InitOnlySetters.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\InitOnlySetters\InitOnlySetters\obj\Debug\net5.0\InitOnlySetters.genruntimeconfig.cache

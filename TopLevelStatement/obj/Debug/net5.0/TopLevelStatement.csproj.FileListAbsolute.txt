@@ -1,0 +1,16 @@
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\TopLevelStatement.exe
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\TopLevelStatement.deps.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\TopLevelStatement.runtimeconfig.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\TopLevelStatement.runtimeconfig.dev.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\TopLevelStatement.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\ref\TopLevelStatement.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\bin\Debug\net5.0\TopLevelStatement.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.csprojAssemblyReference.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.AssemblyInfoInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.AssemblyInfo.cs
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.csproj.CoreCompileInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\ref\TopLevelStatement.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\TopLevelStatement\obj\Debug\net5.0\TopLevelStatement.genruntimeconfig.cache

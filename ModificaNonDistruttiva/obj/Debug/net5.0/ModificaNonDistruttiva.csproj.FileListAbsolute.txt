@@ -1,0 +1,16 @@
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ModificaNonDistruttiva.exe
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ModificaNonDistruttiva.deps.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ModificaNonDistruttiva.runtimeconfig.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ModificaNonDistruttiva.runtimeconfig.dev.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ModificaNonDistruttiva.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ref\ModificaNonDistruttiva.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\bin\Debug\net5.0\ModificaNonDistruttiva.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.csprojAssemblyReference.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.AssemblyInfoInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.AssemblyInfo.cs
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.csproj.CoreCompileInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ref\ModificaNonDistruttiva.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\ModificaNonDistruttiva\obj\Debug\net5.0\ModificaNonDistruttiva.genruntimeconfig.cache
