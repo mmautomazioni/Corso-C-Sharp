@@ -1,0 +1,16 @@
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\Record.exe
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\Record.deps.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\Record.runtimeconfig.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\Record.runtimeconfig.dev.json
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\Record.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\ref\Record.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\bin\Debug\net5.0\Record.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.csprojAssemblyReference.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.AssemblyInfoInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.AssemblyInfo.cs
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.csproj.CoreCompileInputs.cache
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\ref\Record.dll
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.pdb
+C:\Blog\Post\LINGUAGGIO C#\C# 9\Record\obj\Debug\net5.0\Record.genruntimeconfig.cache
