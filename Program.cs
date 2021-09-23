@@ -1,6 +1,7 @@
 ﻿using System;
-    
-    Libro libro1 = new Libro("L'isola misteriosa","Jules Verne");
+using System.Text;
+
+Libro libro1 = new Libro("L'isola misteriosa","Jules Verne");
     Libro libro2 = new Libro("L'isola misteriosa","Jules Verne");
     //Libro libro2 = new Libro("Neuromante","William Gibson");
     Console.WriteLine(libro1==libro2);//FALSE (TRUE con record)
@@ -32,5 +33,13 @@
         {
             Titolo=titolo;
             Autore=autore;
+        }
+        //OVERRIDE DI ToString()
+        public override string ToString()
+        {
+            StringBuilder builder = new StringBuilder();
+            builder.Append("RECORD: Libro - ");
+            builder.Append(Titolo);
+            return builder.ToString();
         }
     }
