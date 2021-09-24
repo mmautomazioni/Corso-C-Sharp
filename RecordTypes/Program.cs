@@ -7,10 +7,11 @@ using System.Text;
     Console.WriteLine(libro2);
     record Libro
     {
-        
+        #nullable enable
         public string Titolo {get;init;}
         public string Autore {get;init;}
 
+        #nullable disable
         public Libro()
         {
 
@@ -35,8 +36,10 @@ using System.Text;
     }
     record LibroDigitale:Libro
     {
+        #nullable enable
         public string Durata {get;init;}
-
+    
+        #nullable disable
         public LibroDigitale()
         {
 

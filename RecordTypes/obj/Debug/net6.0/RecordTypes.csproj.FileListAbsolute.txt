@@ -4,3 +4,13 @@ C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.GeneratedMSBuildEditorConfi
 C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.AssemblyInfoInputs.cache
 C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.AssemblyInfo.cs
 C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.csproj.CoreCompileInputs.cache
+C:\Corso C#\RecordTypes\bin\Debug\net6.0\RecordTypes.exe
+C:\Corso C#\RecordTypes\bin\Debug\net6.0\RecordTypes.deps.json
+C:\Corso C#\RecordTypes\bin\Debug\net6.0\RecordTypes.runtimeconfig.json
+C:\Corso C#\RecordTypes\bin\Debug\net6.0\RecordTypes.dll
+C:\Corso C#\RecordTypes\bin\Debug\net6.0\ref\RecordTypes.dll
+C:\Corso C#\RecordTypes\bin\Debug\net6.0\RecordTypes.pdb
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.dll
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\ref\RecordTypes.dll
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.pdb
+C:\Corso C#\RecordTypes\obj\Debug\net6.0\RecordTypes.genruntimeconfig.cache

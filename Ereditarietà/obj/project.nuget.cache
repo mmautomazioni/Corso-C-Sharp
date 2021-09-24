@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2VIbII49okPaIhVxFZVlw+vtQPzGVAwoGlQawQnTdmzuHW1YBTpbxbrmv0QJLnGaVF62mvJ96xHlIWRkGT5SPg==",
+  "dgSpecHash": "J9xFd5IwRjs4r9k94Dl6TSsh3/aBgqywg6mQBdBPBU23VRXc2Pbp2ATv6rd5+C3DFiJ0wgPByrNQfepJDoBrDw==",
   "success": true,
-  "projectFilePath": "C:\\Blog\\Post\\LINGUAGGIO C#\\C# 9\\Ereditarietà\\Ereditarietà.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Corso C#\\Ereditarietà\\Ereditarietà.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

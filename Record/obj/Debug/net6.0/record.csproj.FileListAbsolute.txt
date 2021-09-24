@@ -1,0 +1,16 @@
+C:\Corso C#\record\bin\Debug\net6.0\record.exe
+C:\Corso C#\record\bin\Debug\net6.0\record.deps.json
+C:\Corso C#\record\bin\Debug\net6.0\record.runtimeconfig.json
+C:\Corso C#\record\bin\Debug\net6.0\record.dll
+C:\Corso C#\record\bin\Debug\net6.0\ref\record.dll
+C:\Corso C#\record\bin\Debug\net6.0\record.pdb
+C:\Corso C#\record\obj\Debug\net6.0\record.GlobalUsings.g.cs
+C:\Corso C#\record\obj\Debug\net6.0\record.csproj.AssemblyReference.cache
+C:\Corso C#\record\obj\Debug\net6.0\record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\record\obj\Debug\net6.0\record.AssemblyInfoInputs.cache
+C:\Corso C#\record\obj\Debug\net6.0\record.AssemblyInfo.cs
+C:\Corso C#\record\obj\Debug\net6.0\record.csproj.CoreCompileInputs.cache
+C:\Corso C#\record\obj\Debug\net6.0\record.dll
+C:\Corso C#\record\obj\Debug\net6.0\ref\record.dll
+C:\Corso C#\record\obj\Debug\net6.0\record.pdb
+C:\Corso C#\record\obj\Debug\net6.0\record.genruntimeconfig.cache
